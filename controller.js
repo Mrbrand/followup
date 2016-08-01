@@ -1,5 +1,5 @@
-var itemList = new Carbon("mangajo");
-var itemHistory = new Carbon("mangajo-history");
+var itemList = new Carbon("followup");
+var itemHistory = new Carbon("followup-history");
 refresh_groceries();
 
 items=itemList.get_all();
